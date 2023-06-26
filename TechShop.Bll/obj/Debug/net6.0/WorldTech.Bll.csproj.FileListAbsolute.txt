@@ -1,0 +1,30 @@
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.Bll.deps.json
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.Bll.dll
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.Bll.pdb
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.DI.dll
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.csproj.AssemblyReference.cache
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.AssemblyInfoInputs.cache
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.AssemblyInfo.cs
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.csproj.CoreCompileInputs.cache
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.csproj.CopyComplete
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.dll
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\refint\WorldTech.Bll.dll
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.pdb
+C:\Users\aryik\source\repos\WorldTech\TechShop.Bll\obj\Debug\net6.0\ref\WorldTech.Bll.dll
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.Bll.deps.json
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.Bll.dll
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.Bll.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.DI.dll
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\bin\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.AssemblyInfo.cs
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.csproj.CopyComplete
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.dll
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\refint\WorldTech.Bll.dll
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\WorldTech.Bll.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\TechShop.Bll\obj\Debug\net6.0\ref\WorldTech.Bll.dll

@@ -1,0 +1,30 @@
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.Data.Sql.deps.json
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.Data.Sql.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.Data.Sql.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.DI.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.AssemblyInfo.cs
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.csproj.CopyComplete
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\refint\WorldTech.Data.Sql.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\ref\WorldTech.Data.Sql.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.Data.Sql.deps.json
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.Data.Sql.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.Data.Sql.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.DI.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\bin\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.AssemblyInfo.cs
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.csproj.CopyComplete
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\refint\WorldTech.Data.Sql.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\WorldTech.Data.Sql.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Data.Sql\obj\Debug\net6.0\ref\WorldTech.Data.Sql.dll

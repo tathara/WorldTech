@@ -1,0 +1,38 @@
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Settings.deps.json
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Settings.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Settings.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Bll.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Data.Sql.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.DI.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Bll.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Data.Sql.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.csproj.AssemblyReference.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.AssemblyInfoInputs.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.AssemblyInfo.cs
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.csproj.CoreCompileInputs.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.csproj.CopyComplete
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\refint\WorldTech.Settings.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.Settings\obj\Debug\net6.0\ref\WorldTech.Settings.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Settings.deps.json
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Settings.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Settings.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Bll.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Data.Sql.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.DI.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Bll.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.Data.Sql.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\bin\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.AssemblyInfo.cs
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.csproj.CopyComplete
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\refint\WorldTech.Settings.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\WorldTech.Settings.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.Settings\obj\Debug\net6.0\ref\WorldTech.Settings.dll

@@ -1,0 +1,24 @@
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\bin\Debug\net6.0\WorldTech.DI.deps.json
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\bin\Debug\net6.0\WorldTech.DI.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\bin\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.csproj.AssemblyReference.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.AssemblyInfoInputs.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.AssemblyInfo.cs
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.csproj.CoreCompileInputs.cache
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\refint\WorldTech.DI.dll
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\aryik\source\repos\WorldTech\WorldTech.DI\obj\Debug\net6.0\ref\WorldTech.DI.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\bin\Debug\net6.0\WorldTech.DI.deps.json
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\bin\Debug\net6.0\WorldTech.DI.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\bin\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.AssemblyInfo.cs
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\refint\WorldTech.DI.dll
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\WorldTech.DI.pdb
+C:\Users\User\Documents\C++ projects\WorldTech\WorldTech.DI\obj\Debug\net6.0\ref\WorldTech.DI.dll
